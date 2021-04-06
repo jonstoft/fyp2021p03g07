@@ -1,2 +1,2 @@
 # fyp2021p03g07
-Image recognision
+Image recognision: This project 
